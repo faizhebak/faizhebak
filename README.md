@@ -7,7 +7,7 @@ Student
 Student at University Technology of Malaysia (UTM) who loves learning and challenges as i goes
 
 * 🌍  I'm based in Johor Bahru
-* 🖥️  See my portfolio at [MyPortfolio](http://https://www.linkedin.com/in/muhammad-faiz-bin-zakaria-9852a6254/)
+* 🖥️  See my portfolio at [MyPortfolio](https://www.linkedin.com/in/muhammad-faiz-bin-zakaria-9852a6254)
 * ✉️  You can contact me at [faiz-03@graduate.utm.my](mailto:faiz-03@graduate.utm.my)
 * 🧠  I'm learning Java
 * 🤝  I'm open to collaborating on Projects
