@@ -11,7 +11,7 @@ Student at University Technology of Malaysia (UTM) who loves learning and challe
 * ✉️  You can contact me at [faiz-03@graduate.utm.my](mailto:faiz-03@graduate.utm.my)
 * 🧠  I'm learning Java
 * 🤝  I'm open to collaborating on Projects
-* ⚡  People called me FaizHebak because i can
+* ⚡  People called me FaizHebak sebab boleh dik
 
 ### Skills
 
